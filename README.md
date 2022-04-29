@@ -1,6 +1,4 @@
 # XrayR-0.7.6-Backup
-[![](https://img.shields.io/badge/TgChat-@XrayR讨论-blue.svg)](https://t.me/XrayR_project)
-[![](https://img.shields.io/badge/Channel-@XrayR通知-blue.svg)](https://t.me/XrayR_channel)
 
 A Xray backend framework that can easily support many panels.
 
@@ -50,8 +48,9 @@ A Xray backend framework that can easily support many panels.
 | [ProxyPanel](https://github.com/ProxyPanel/ProxyPanel) | √     | √      | √                              |
 
 ## 软件安装
-### 手动安装
-[手动安装教程](https://crackair.gitbook.io/xrayr-project/xrayr-xia-zai-he-an-zhuang/install/manual)
+### 一键脚本安装
+
+bash <(curl -Ls https://raw.githubusercontent.com/Linxsh7/XrayR/main/install.sh)
 
 ## 配置文件及详细使用教程
 
