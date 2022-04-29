@@ -1,4 +1,4 @@
-# XrayR-0.8.0-Backup
+# XrayR-0.8.0-Backup final version
 
 A Xray backend framework that can easily support many panels.
 
