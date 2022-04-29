@@ -74,11 +74,5 @@ bash <(curl -Ls https://raw.githubusercontent.com/Linxsh7/XrayR/main/install.sh)
 [XrayR通知](https://t.me/XrayR_channel)
 
 ## Donation
-ETH&(USDT-ERC20): 0xDbB76DDDaAef7F14e56Be96CF5cd477BBDA6FFd6
 
-TRX&(USDT-TRC20): THnoBdGW8W8tkCgATAbfTtEWV7jH3dz1dZ
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/XrayR-project/XrayR.svg)](https://starchart.cc/XrayR-project/XrayR)
-
+TRX&(USDT-TRC20): 
