@@ -77,4 +77,4 @@ bash <(curl -Ls https://raw.githubusercontent.com/Linxsh7/XrayR/main/install.sh)
 
 ## Donation
 
-TRX&(USDT-TRC20): 
+TRX&(USDT-TRC20): TJfGVA8HJzyG5vYt2zkwz2yvykgWP5svEK
