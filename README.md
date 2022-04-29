@@ -69,9 +69,9 @@ bash <(curl -Ls https://raw.githubusercontent.com/Linxsh7/XrayR/main/install.sh)
 
 ## Telgram
 
-[XrayR后端讨论](https://t.me/XrayR_project)
+[XrayR后端讨论](https://t.me/)待开启
 
-[XrayR通知](https://t.me/XrayR_channel)
+[XrayR通知](https://t.me/)待开启
 
 ## Donation
 
