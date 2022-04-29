@@ -1,4 +1,6 @@
 # XrayR-0.8.0-Backup final version
+[![](https://img.shields.io/badge/TgChat-@XrayR讨论待开启-blue.svg)](https://t.me/)
+[![](https://img.shields.io/badge/Channel-@XrayR通知待开启-blue.svg)](https://t.me/)
 
 A Xray backend framework that can easily support many panels.
 
